@@ -80,7 +80,5 @@ Veja `docs/exemplo_execucao.txt`: consulta vazia, duas sugestões ("tirar cpf e 
 - Não solicita nem armazena dados pessoais; rejeita consultas que pareçam conter números longos ou e-mail.
 - Exibe em toda resposta o aviso de que **não é canal oficial** e a fonte para conferência. Valores e prazos podem mudar: confirme sempre no site oficial.
 
-## 10. Conclusões e limitações
-_[ESCREVA SUA CONCLUSÃO PESSOAL: o que aprendeu sobre arquivos, dicionários, busca por palavras-chave e avaliação.]_
-Limitações: busca por correspondência exata de termos (sem sinônimos), base pequena e estática, apenas interface de terminal.
-#
+## 10.Vídeo
+#https://www.youtube.com/watch?v=D7d9kHWh-wo
