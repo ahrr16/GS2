@@ -1,0 +1,20 @@
+[
+  {"id": "T01", "tipo": "direta",   "pergunta": "Quem pode se inscrever no CPF?", "esperado": "CPF01"},
+  {"id": "T02", "tipo": "direta",   "pergunta": "Quais documentos preciso apresentar para o CPF?", "esperado": "CPF02"},
+  {"id": "T03", "tipo": "direta",   "pergunta": "Como solicitar o CPF pelo formulário na internet?", "esperado": "CPF03"},
+  {"id": "T04", "tipo": "direta",   "pergunta": "O CPF é gratuito ou tem custo?", "esperado": "CPF04"},
+  {"id": "T05", "tipo": "direta",   "pergunta": "Como consultar a situação cadastral do meu CPF?", "esperado": "CPF05"},
+  {"id": "T06", "tipo": "direta",   "pergunta": "Meu CPF está pendente, como regularizar?", "esperado": "CPF06"},
+  {"id": "T07", "tipo": "variacao", "pergunta": "Como tirar CPF?", "esperado": "CPF01"},
+  {"id": "T08", "tipo": "direta",   "pergunta": "Quais tipos de passaporte existem?", "esperado": "PAS01"},
+  {"id": "T09", "tipo": "direta",   "pergunta": "Qual o passo a passo para tirar passaporte?", "esperado": "PAS02"},
+  {"id": "T10", "tipo": "direta",   "pergunta": "Quais documentos levar para o passaporte?", "esperado": "PAS03"},
+  {"id": "T11", "tipo": "direta",   "pergunta": "Qual o valor da taxa do passaporte?", "esperado": "PAS04"},
+  {"id": "T12", "tipo": "variacao", "pergunta": "Quantos dias demora para receber o passaporte?", "esperado": "PAS05"},
+  {"id": "T13", "tipo": "variacao", "pergunta": "Qual a validade do passaporte para maior de 18 anos?", "esperado": "PAS06"},
+  {"id": "T14", "tipo": "variacao", "pergunta": "Quanto custa o passaporte com urgência?", "esperado": "PAS04"},
+  {"id": "T15", "tipo": "variacao", "pergunta": "Como pagar a tarifa para fazer meu CPF num cartório?", "esperado": "CPF04"},
+  {"id": "T16", "tipo": "fora_da_base", "pergunta": "Como renovar a CNH?", "esperado": null},
+  {"id": "T17", "tipo": "fora_da_base", "pergunta": "Qual a previsão do tempo para amanhã?", "esperado": null},
+  {"id": "T18", "tipo": "fora_da_base", "pergunta": "Como emitir segunda via do título de eleitor?", "esperado": null}
+]

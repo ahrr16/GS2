@@ -1,0 +1,112 @@
+Protótipo acadêmico: NÃO é um canal oficial. Confirme sempre a informação na fonte indicada.
+
+=== CITIZEN ASSIST AI ===
+Guia de orientações sobre documentos (protótipo, não oficial).
+  1 - Tema: CPF
+  2 - Tema: Passaporte
+  3 - Pesquisar por palavras-chave
+  4 - Alternar formato (atual: resumido)
+  0 - Sair   (digite 'sair' a qualquer momento para encerrar)
+Opção: 3
+
+Digite sua dúvida (sem dados pessoais): 
+Consulta não aceita: consulta vazia.
+
+=== CITIZEN ASSIST AI ===
+Guia de orientações sobre documentos (protótipo, não oficial).
+  1 - Tema: CPF
+  2 - Tema: Passaporte
+  3 - Pesquisar por palavras-chave
+  4 - Alternar formato (atual: resumido)
+  0 - Sair   (digite 'sair' a qualquer momento para encerrar)
+Opção: 3
+
+Digite sua dúvida (sem dados pessoais): tirar cpf e passaporte
+
+Encontrei mais de uma orientação possível:
+  1 - Quem pode se inscrever no CPF?  [CPF; 1 palavra(s)-chave: tirar cpf]
+  2 - Qual é o passo a passo para tirar o passaporte?  [Passaporte; 1 palavra(s)-chave: tirar passaporte]
+  0 - Voltar ao menu
+Escolha uma opção: 1
+
+============================================================
+Quem pode se inscrever no CPF?
+
+Brasileiros e estrangeiros, residentes ou não residentes no Brasil, podem se inscrever no CPF.
+
+Fonte: https://www.gov.br/pt-br/servicos/inscrever-no-cpf
+Verificado em: 2026-11-25
+------------------------------------------------------------
+Protótipo acadêmico: NÃO é um canal oficial. Confirme sempre a informação na fonte indicada.
+============================================================
+
+=== CITIZEN ASSIST AI ===
+Guia de orientações sobre documentos (protótipo, não oficial).
+  1 - Tema: CPF
+  2 - Tema: Passaporte
+  3 - Pesquisar por palavras-chave
+  4 - Alternar formato (atual: resumido)
+  0 - Sair   (digite 'sair' a qualquer momento para encerrar)
+Opção: 4
+Formato alterado para: passo a passo.
+
+=== CITIZEN ASSIST AI ===
+Guia de orientações sobre documentos (protótipo, não oficial).
+  1 - Tema: CPF
+  2 - Tema: Passaporte
+  3 - Pesquisar por palavras-chave
+  4 - Alternar formato (atual: passo a passo)
+  0 - Sair   (digite 'sair' a qualquer momento para encerrar)
+Opção: 3
+
+Digite sua dúvida (sem dados pessoais): Como renovar a CNH?
+
+Não encontrei na base orientação suficiente para essa pergunta. Prefiro não inventar uma resposta. Tente outras palavras-chave, navegue pelos temas do menu ou consulte diretamente os canais oficiais.
+
+=== CITIZEN ASSIST AI ===
+Guia de orientações sobre documentos (protótipo, não oficial).
+  1 - Tema: CPF
+  2 - Tema: Passaporte
+  3 - Pesquisar por palavras-chave
+  4 - Alternar formato (atual: passo a passo)
+  0 - Sair   (digite 'sair' a qualquer momento para encerrar)
+Opção: 9
+Opção inválida: '9'. Use números de 0 a 4.
+Opção: 1
+
+Tema: CPF
+ [Inscrição]
+  1 - Quem pode se inscrever no CPF?
+  2 - Quais documentos são necessários para se inscrever no CPF?
+  3 - Como solicitar a inscrição no CPF e quanto tempo leva?
+  4 - A inscrição no CPF é gratuita?
+ [Situação cadastral]
+  5 - Como consultar a situação cadastral do meu CPF?
+  6 - Meu CPF está pendente de regularização. O que fazer?
+  0 - Voltar ao menu
+Escolha uma pergunta: 6
+
+============================================================
+Meu CPF está pendente de regularização. O que fazer?
+
+1. Consulte 'Minhas Dívidas e Pendências' no site da Receita Federal.
+2. Veja qual declaração de imposto de renda o sistema indica como faltante.
+3. Envie a declaração correta.
+4. Após o envio, o CPF deve passar para a situação 'Regular'.
+
+Fonte: https://www.gov.br/pt-br/servicos/consultar-cadastro-de-pessoas-fisicas
+Verificado em: 2026-11-25
+------------------------------------------------------------
+Protótipo acadêmico: NÃO é um canal oficial. Confirme sempre a informação na fonte indicada.
+============================================================
+
+=== CITIZEN ASSIST AI ===
+Guia de orientações sobre documentos (protótipo, não oficial).
+  1 - Tema: CPF
+  2 - Tema: Passaporte
+  3 - Pesquisar por palavras-chave
+  4 - Alternar formato (atual: passo a passo)
+  0 - Sair   (digite 'sair' a qualquer momento para encerrar)
+Opção: 0
+
+Encerrando. Obrigado por usar o Citizen Assist AI!

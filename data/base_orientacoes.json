@@ -1,0 +1,195 @@
+{
+  "versao": 1,
+  "aviso": "Base de estudo. Orientações resumidas de páginas oficiais do gov.br; sempre confirme na fonte.",
+  "orientacoes": [
+    {
+      "codigo": "CPF01",
+      "tema": "CPF",
+      "subassunto": "Inscrição",
+      "pergunta": "Quem pode se inscrever no CPF?",
+      "palavras_chave": ["inscrever cpf", "inscricao cpf", "tirar cpf", "fazer cpf", "estrangeiro cpf"],
+      "orientacao": "Brasileiros e estrangeiros, residentes ou não residentes no Brasil, podem se inscrever no CPF.",
+      "passos": [
+        "Verifique se você se enquadra: brasileiros e estrangeiros, residentes ou não no Brasil, podem se inscrever.",
+        "Escolha o canal de solicitação (formulário na internet, atendimento presencial, e-mail ou rede conveniada; veja a orientação CPF03).",
+        "Quem mora no exterior apresenta os documentos no consulado brasileiro."
+      ],
+      "fonte": "https://www.gov.br/pt-br/servicos/inscrever-no-cpf",
+      "data_verificacao": "2026-11-25"
+    },
+    {
+      "codigo": "CPF02",
+      "tema": "CPF",
+      "subassunto": "Inscrição",
+      "pergunta": "Quais documentos são necessários para se inscrever no CPF?",
+      "palavras_chave": ["documento cpf", "requisito cpf", "certidao cpf", "identificacao cpf"],
+      "orientacao": "É preciso um documento de identificação oficial com foto. Se ele não trouxer naturalidade, filiação e data de nascimento, leve também certidão de nascimento ou de casamento (ou equivalente, para estrangeiros). O atendente pode pedir outros documentos. Há regras adicionais para 16 e 17 anos, menores de 16, pessoas com deficiência e pessoas falecidas.",
+      "passos": [
+        "Separe um documento de identificação oficial com foto.",
+        "Se o documento não informar naturalidade, filiação e data de nascimento, separe também a certidão de nascimento ou de casamento (ou equivalente para estrangeiros).",
+        "Esteja preparado para apresentar outros documentos, caso o atendente solicite.",
+        "Para 16 e 17 anos, menores de 16, pessoas com deficiência ou falecidos, confira as exigências adicionais na página oficial."
+      ],
+      "fonte": "https://www.gov.br/pt-br/servicos/inscrever-no-cpf",
+      "data_verificacao": "2026-11-25"
+    },
+    {
+      "codigo": "CPF03",
+      "tema": "CPF",
+      "subassunto": "Inscrição",
+      "pergunta": "Como solicitar a inscrição no CPF e quanto tempo leva?",
+      "palavras_chave": ["solicitar cpf", "formulario cpf", "protocolo cpf", "prazo cpf", "internet cpf", "email cpf"],
+      "orientacao": "Preencha o formulário eletrônico (cerca de 5 minutos) ou solicite presencialmente nas unidades da Receita Federal, em Pontos de Atendimento Virtual, por e-mail ou em rede conveniada. Depois, leve o protocolo e os documentos à Receita Federal (a página indica prazo médio de 2 dias úteis nessa etapa). O atendimento por e-mail leva cerca de 48 horas.",
+      "passos": [
+        "Solicite a inscrição: preencha o formulário eletrônico na internet (cerca de 5 minutos) ou peça presencialmente, por e-mail ou em rede conveniada.",
+        "Guarde o protocolo gerado.",
+        "Leve o protocolo e os documentos à Receita Federal (prazo médio de 2 dias úteis nessa etapa) ou, se mora no exterior, ao consulado brasileiro.",
+        "Se optar pelo atendimento por e-mail, a página indica cerca de 48 horas."
+      ],
+      "fonte": "https://www.gov.br/pt-br/servicos/inscrever-no-cpf",
+      "data_verificacao": "2026-11-25"
+    },
+    {
+      "codigo": "CPF04",
+      "tema": "CPF",
+      "subassunto": "Inscrição",
+      "pergunta": "A inscrição no CPF é gratuita?",
+      "palavras_chave": ["gratuito cpf", "custo cpf", "custa cpf", "preco cpf", "taxa cpf", "valor cpf", "pagar cpf"],
+      "orientacao": "Em geral, a inscrição é gratuita. Em unidades conveniadas (Cartório de Registro Civil, Banco do Brasil, Caixa ou Correios) há tarifa de R$ 7,00.",
+      "passos": [
+        "Para inscrição pelos canais da Receita Federal, em geral não há cobrança.",
+        "Se escolher uma unidade conveniada (Cartório de Registro Civil, Banco do Brasil, Caixa ou Correios), prepare-se para uma tarifa de R$ 7,00.",
+        "Confirme o valor vigente na página oficial antes de pagar."
+      ],
+      "fonte": "https://www.gov.br/pt-br/servicos/inscrever-no-cpf",
+      "data_verificacao": "2026-11-25"
+    },
+    {
+      "codigo": "CPF05",
+      "tema": "CPF",
+      "subassunto": "Situação cadastral",
+      "pergunta": "Como consultar a situação cadastral do meu CPF?",
+      "palavras_chave": ["situacao cpf", "consultar cpf", "situacao cadastral", "comprovante cpf", "validar comprovante"],
+      "orientacao": "Acesse o canal 'Consultar Situação do CPF' no site da Receita Federal e informe seus dados lá, quando solicitado. O serviço é gratuito e imediato e também permite emitir o comprovante de situação cadastral e confirmar a autenticidade de comprovantes. A página cita as situações 'Regular' e 'Pendente de regularização'.",
+      "passos": [
+        "Acesse o canal 'Consultar Situação do CPF' no site da Receita Federal (não digite seus dados pessoais neste assistente).",
+        "Informe seus dados no site oficial, quando solicitado.",
+        "Veja se a situação é 'Regular' ou 'Pendente de regularização'.",
+        "Se precisar, emita o comprovante de situação cadastral ou valide a autenticidade de um comprovante nos canais indicados."
+      ],
+      "fonte": "https://www.gov.br/pt-br/servicos/consultar-cadastro-de-pessoas-fisicas",
+      "data_verificacao": "2026-11-25"
+    },
+    {
+      "codigo": "CPF06",
+      "tema": "CPF",
+      "subassunto": "Situação cadastral",
+      "pergunta": "Meu CPF está pendente de regularização. O que fazer?",
+      "palavras_chave": ["regularizar cpf", "pendente cpf", "pendencia cpf", "regularizacao cpf", "irregular cpf", "declaracao cpf"],
+      "orientacao": "Consulte 'Minhas Dívidas e Pendências' para ver qual declaração de imposto de renda está faltando e envie a declaração correta. Depois disso, o CPF deve passar para a situação 'Regular'. A página informa que a pendência geralmente está ligada a declaração de imposto de renda.",
+      "passos": [
+        "Consulte 'Minhas Dívidas e Pendências' no site da Receita Federal.",
+        "Veja qual declaração de imposto de renda o sistema indica como faltante.",
+        "Envie a declaração correta.",
+        "Após o envio, o CPF deve passar para a situação 'Regular'."
+      ],
+      "fonte": "https://www.gov.br/pt-br/servicos/consultar-cadastro-de-pessoas-fisicas",
+      "data_verificacao": "2026-11-25"
+    },
+    {
+      "codigo": "PAS01",
+      "tema": "Passaporte",
+      "subassunto": "Tipos e requisitos",
+      "pergunta": "Que tipos de passaporte posso solicitar pelo serviço da Polícia Federal?",
+      "palavras_chave": ["tipo passaporte", "estrangeiro passaporte", "diplomatico passaporte", "laissez passer", "itamaraty", "comum passaporte", "oficial passaporte"],
+      "orientacao": "O serviço é para quem está em território brasileiro e atende aos requisitos legais. Emite passaporte comum, passaporte para estrangeiro e laissez-passer. Passaportes diplomático, oficial e de serviço não são emitidos por esse canal (a página remete ao serviço consular do Itamaraty).",
+      "passos": [
+        "Confirme que você está em território brasileiro e atende aos requisitos legais (variam conforme a nacionalidade).",
+        "Para passaporte comum, passaporte para estrangeiro ou laissez-passer, use o serviço da Polícia Federal.",
+        "Para passaporte diplomático, oficial ou de serviço, consulte o serviço consular do Itamaraty."
+      ],
+      "fonte": "https://www.gov.br/pt-br/servicos/obter-passaporte-comum-para-brasileiro",
+      "data_verificacao": "2026-11-25"
+    },
+    {
+      "codigo": "PAS02",
+      "tema": "Passaporte",
+      "subassunto": "Solicitação",
+      "pergunta": "Qual é o passo a passo para tirar o passaporte?",
+      "palavras_chave": ["tirar passaporte", "emitir passaporte", "solicitar passaporte", "passo passaporte", "formulario passaporte", "agendar passaporte", "agendamento passaporte"],
+      "orientacao": "Preencha o formulário online, pague a taxa, agende o atendimento presencial depois da compensação do pagamento, compareça à unidade da Polícia Federal com os documentos originais (haverá biometria), acompanhe o andamento online e retire o passaporte no mesmo posto. A Polícia Federal informa que não possui call center ou telefone para este serviço.",
+      "passos": [
+        "Preencha o formulário online (até 10 minutos); informações falsas ou campos em branco causam atraso.",
+        "Pague a taxa gerada ao final do formulário (PagTesouro por Pix ou cartão, boleto ou DDA); a compensação leva de 24 a 72 horas.",
+        "Agende o atendimento presencial após a compensação (1 a 15 dias úteis); a retirada será no mesmo posto.",
+        "Compareça à unidade com os documentos originais para conferência, biometria (digitais e foto) e informação do prazo de entrega.",
+        "Consulte o andamento online; a retirada só é possível quando a consulta indicar que o documento está disponível.",
+        "Retire o passaporte no mesmo posto, com documento de identificação."
+      ],
+      "fonte": "https://www.gov.br/pt-br/servicos/obter-passaporte-comum-para-brasileiro",
+      "data_verificacao": "2026-11-25"
+    },
+    {
+      "codigo": "PAS03",
+      "tema": "Passaporte",
+      "subassunto": "Solicitação",
+      "pergunta": "Quais documentos levar para tirar o passaporte?",
+      "palavras_chave": ["documento passaporte", "levar passaporte", "original passaporte", "lista passaporte", "menor passaporte"],
+      "orientacao": "A página do serviço não lista os documentos: orienta conferir a lista geral (brasileiros) ou a lista específica (não brasileiros) antes de preencher o formulário. Todos os documentos devem ser apresentados em via original no atendimento presencial. Para menor de 18 anos, o atendimento presencial também é obrigatório.",
+      "passos": [
+        "Antes de preencher o formulário, confira a lista de documentos: geral para brasileiros ou específica para não brasileiros (a lista fica nas páginas da Polícia Federal).",
+        "Leve todos os documentos em via original ao atendimento presencial.",
+        "Se o passaporte for de menor de 18 anos, o atendimento presencial também é obrigatório."
+      ],
+      "fonte": "https://www.gov.br/pt-br/servicos/obter-passaporte-comum-para-brasileiro",
+      "data_verificacao": "2026-11-25"
+    },
+    {
+      "codigo": "PAS04",
+      "tema": "Passaporte",
+      "subassunto": "Taxas",
+      "pergunta": "Quanto custa o passaporte?",
+      "palavras_chave": ["custo passaporte", "custa passaporte", "taxa passaporte", "valor passaporte", "preco passaporte", "pagar passaporte", "urgencia passaporte", "emergencia passaporte", "perdido passaporte", "extraviado passaporte"],
+      "orientacao": "A taxa comum é de R$ 257,25. Urgência e emergência: R$ 334,42 (taxa comum mais R$ 77,17 gerada no atendimento). Passaporte anterior válido extraviado ou perdido: R$ 514,50 (taxa comum mais R$ 257,25 gerada no atendimento). O pagamento é por PagTesouro (Pix ou cartão), boleto ou DDA.",
+      "passos": [
+        "Taxa comum a todas as solicitações: R$ 257,25.",
+        "Em caso de urgência ou emergência: R$ 334,42 (taxa comum mais R$ 77,17, gerada no atendimento).",
+        "Se o passaporte anterior ainda válido foi extraviado ou perdido: R$ 514,50 (taxa comum mais R$ 257,25, gerada no atendimento).",
+        "Pague por PagTesouro (Pix ou cartão), boleto ou DDA e confirme os valores vigentes na página oficial."
+      ],
+      "fonte": "https://www.gov.br/pt-br/servicos/obter-passaporte-comum-para-brasileiro",
+      "data_verificacao": "2026-11-25"
+    },
+    {
+      "codigo": "PAS05",
+      "tema": "Passaporte",
+      "subassunto": "Prazos e retirada",
+      "pergunta": "Quanto tempo leva para receber o passaporte e quem pode retirá-lo?",
+      "palavras_chave": ["prazo passaporte", "demora passaporte", "tempo passaporte", "dia passaporte", "retirada passaporte", "retirar passaporte", "receber passaporte", "andamento passaporte"],
+      "orientacao": "O prazo total estimado é de 6 a 10 dias úteis (pagamento: 24 a 72 horas; agendamento: 1 a 15 dias úteis). Em férias escolares ou feriados prolongados, pode aumentar. A retirada é no mesmo posto, com documento de identificação, somente pelo titular (com exceções para menores) e só quando a consulta de andamento indicar que está disponível.",
+      "passos": [
+        "Considere o prazo total estimado de 6 a 10 dias úteis (pode aumentar em férias escolares e feriados prolongados).",
+        "Acompanhe o andamento online; a retirada só é possível quando indicar que o documento está disponível.",
+        "Retire no mesmo posto onde fez o atendimento, com documento de identificação.",
+        "A entrega é somente ao titular, com exceções para menores (que exigem documento do acompanhante e, quando aplicável, autorização específica)."
+      ],
+      "fonte": "https://www.gov.br/pt-br/servicos/obter-passaporte-comum-para-brasileiro",
+      "data_verificacao": "2026-11-25"
+    },
+    {
+      "codigo": "PAS06",
+      "tema": "Passaporte",
+      "subassunto": "Validade",
+      "pergunta": "Qual é a validade do passaporte?",
+      "palavras_chave": ["validade passaporte", "vence passaporte", "valido passaporte", "ano passaporte", "vencimento passaporte"],
+      "orientacao": "Passaporte comum: 1 ano até 1 ano de idade; 2 anos de 1 a 2; 3 anos de 2 a 3; 4 anos de 3 a 4; 5 anos de 4 a 18; 10 anos para maiores de 18. Passaporte de emergência: até 1 ano. Passaporte para estrangeiro e laissez-passer: até 2 anos.",
+      "passos": [
+        "Identifique o tipo de passaporte e a idade do titular.",
+        "Passaporte comum: 1 ano (até 1 ano de idade), 2 anos (1 a 2), 3 anos (2 a 3), 4 anos (3 a 4), 5 anos (4 a 18) e 10 anos (maiores de 18).",
+        "Passaporte de emergência: até 1 ano. Passaporte para estrangeiro e laissez-passer: até 2 anos."
+      ],
+      "fonte": "https://www.gov.br/pt-br/servicos/obter-passaporte-comum-para-brasileiro",
+      "data_verificacao": "2026-11-25"
+    }
+  ]
+}
